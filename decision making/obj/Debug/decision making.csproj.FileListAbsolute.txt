@@ -1,0 +1,7 @@
+C:\Users\anjal\source\repos\decision making\decision making\bin\Debug\decision making.exe.config
+C:\Users\anjal\source\repos\decision making\decision making\bin\Debug\decision making.exe
+C:\Users\anjal\source\repos\decision making\decision making\bin\Debug\decision making.pdb
+C:\Users\anjal\source\repos\decision making\decision making\obj\Debug\decision making.csproj.AssemblyReference.cache
+C:\Users\anjal\source\repos\decision making\decision making\obj\Debug\decision making.csproj.CoreCompileInputs.cache
+C:\Users\anjal\source\repos\decision making\decision making\obj\Debug\decision making.exe
+C:\Users\anjal\source\repos\decision making\decision making\obj\Debug\decision making.pdb
